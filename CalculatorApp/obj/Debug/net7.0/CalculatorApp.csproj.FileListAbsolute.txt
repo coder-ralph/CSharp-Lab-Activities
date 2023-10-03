@@ -1,0 +1,14 @@
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\bin\Debug\net7.0\CalculatorApp.exe
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\bin\Debug\net7.0\CalculatorApp.deps.json
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\bin\Debug\net7.0\CalculatorApp.runtimeconfig.json
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\bin\Debug\net7.0\CalculatorApp.dll
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\bin\Debug\net7.0\CalculatorApp.pdb
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.dll
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\refint\CalculatorApp.dll
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.pdb
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\ralph\Music\SoftEngLab\C#Lab\CalculatorApp\obj\Debug\net7.0\ref\CalculatorApp.dll
